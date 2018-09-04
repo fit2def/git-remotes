@@ -1,0 +1,1 @@
+This is a repository I will use for Lesson 7: Working With Remotes from within Udacity's React Nano Degree supplemental course on Git.
